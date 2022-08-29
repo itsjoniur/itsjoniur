@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ahmad Amoori (Itsjoniur)</h1>
-<h3 align="center">A back-end developer and freelancer interested in simplicity</h3>
+<h3 align="center">A back-end developer and freelancer interested in APIs</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsjoniur&label=Profile%20views&color=0e75b6&style=flat" alt="itsjoniur" /> </p>
 
