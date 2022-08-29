@@ -1,3 +1,4 @@
+<p align="right">[![](https://visitcount.itsvg.in/api?id=itsjoniur&icon=0&color=1)](https://visitcount.itsvg.in)</p>
 # <p align="center">👋 Hi, I'm Joniur</p>
 ### <p align="center"> A Back-end developer and Freelancer</p>
 🔭 I’m currently working on Bitlygo<br>🌱 I’m currently learning Golang & Docker<br>✨ Interested in Golang, automation<br>💬 Ask me about Python, APIs<br>📫 How to reach me ahmadamoori.dev@gmail.com<br>⚡ Fun fact I know how to exit vim<br>📍 Iran
@@ -14,5 +15,5 @@
 ![](https://github-profile-trophy.vercel.app/?username=itsjoniur&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=itsjoniur&icon=0&color=1)](https://visitcount.itsvg.in)
+
 
